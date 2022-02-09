@@ -1,0 +1,15 @@
+* {
+  margin :0;
+}
+.app_{
+background-color: #FFFFFF;
+
+}
+
+.app_header {
+  background-color: white;
+  padding: 20px;
+  object-fit :contain;
+  border-bottom: 1 px solid lightgray;
+  object-fit: contain;
+}
